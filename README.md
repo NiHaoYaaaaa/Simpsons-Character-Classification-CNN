@@ -1,4 +1,4 @@
-Name: 劉正德
+Name: 劉正德 / Liu Cheng-Te
 
 ## Structure:
 1. Model: Pre-trained ResNet-50 with a modified final layer for 50 classes
